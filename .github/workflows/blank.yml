@@ -1,0 +1,32 @@
+<yml_catalog date="2021-12-14 17:22">
+  <shop>
+    <name>BestSeller</name>
+    <company>Tne Best inc.</company>
+    <categories>
+      <category id="1">Base 1</category>
+      <category id="12">Base 2</category>
+      <category id="4" parentId="3">Category 4</category>
+    </categories>
+    <offers>
+      <offer id="12346" type="vendor.model" bid="60">
+        <sku>662</sku>
+        <vendor>Brand</vendor>
+        <model>K220Y9</model>
+        <typePrefix>Сэндвичница</typePrefix>
+        <vendorCode>A1234567B</vendorCode>
+        <price>1099</price>
+        <categoryId>7</categoryId>
+        <picture>http://best.seller.ru/img/device56789.jpg</picture>
+        <video>https://www.youtube.com/watch?v=_k55A6DjLw8</video>
+        <param name="Мощность">750 Вт</param>
+        <param name="Цвет">Черный</param>
+        <description>Сэндвичница 2 в 1: можно приготовить как сэндвичи, так и вафли.</description>
+        <manufacturer_warranty>true</manufacturer_warranty>
+        <weight>1.03</weight>
+        <dimensions>20.800/23.500/9.000</dimensions>
+        <count>23</count>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
+
